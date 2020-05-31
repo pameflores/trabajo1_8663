@@ -1,0 +1,2 @@
+Paso 1:
+Iniciando mi primer commit en el repositorio local.
