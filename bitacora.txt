@@ -1,2 +1,6 @@
 Paso 1:
 Iniciando mi primer commit en el repositorio local.
+Paso 2:
+Creando rama y generando un cambio de rama a 'librerias'.
+Paso 3:
+Creando mi repositorio remoto en GitHub.
